@@ -149,7 +149,7 @@
     <ClCompile Include="ServerArray.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="ass2.txt" />
+    <Text Include="data.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Customer.h" />

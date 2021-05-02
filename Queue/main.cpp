@@ -30,7 +30,7 @@ Updated: 3/5/2021 00:09
 
 using namespace std;
 
-const char* filename = "ass2.txt";
+const char* filename = "data.txt";
 const bool DEBUG = false;
 
 int customersServed = 0;
